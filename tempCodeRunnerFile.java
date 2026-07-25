@@ -1,0 +1,1 @@
+\\sum of digits and String data extraction from a given string
